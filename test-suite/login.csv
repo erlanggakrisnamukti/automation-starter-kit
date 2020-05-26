@@ -1,0 +1,5 @@
+No,Description,Action,Object,Value
+1,Navigate to momotrip,NAVIGATE,null,https://www.linkgoeshere.co.id
+2,Click login,CLICK,LOGIN,null
+3,Input username,INPUT,//*[@ng-model='login.email'],asd
+4,Input password,INPUT,//*[@ng-model='login.password,qwe

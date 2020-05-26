@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+<suite thread-count="1" verbose="1" name="Momotrip Login" annotations="JDK" parallel="tests">
+         
+  <test name="momotrip">
+	 <classes>
+	   <class name="src.WebTest"/>
+	 </classes>
+   </test>
+</suite>
